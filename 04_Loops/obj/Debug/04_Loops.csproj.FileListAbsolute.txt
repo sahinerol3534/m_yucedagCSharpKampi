@@ -1,0 +1,14 @@
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\bin\Debug\04_Loops.exe.config
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\bin\Debug\04_Loops.exe
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\bin\Debug\04_Loops.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\obj\Debug\04_Loops.exe
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampison\04_Loops\obj\Debug\04_Loops.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\SahinEROL\muratYucedagC#\CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb
