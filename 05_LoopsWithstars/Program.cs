@@ -10,6 +10,48 @@ namespace _05_LoopsWithstars
     {
         static void Main(string[] args)
         {
+            
+            #region Baklava dilimi oluşturma
+            
+            int n = 5;
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            for (int i = 1; i <= n; i++)
+            {
+                Console.Write("             ");
+                for (int j = n-1; j >= i; j--)
+                {
+                    Console.Write(' ');
+                } 
+                for (int k = 1; k <= 2*i - 1; k++)
+                {
+                    Console.Write('*');
+                }
+
+                Console.WriteLine(" ");
+                
+            }
+
+            for (int i = 1; i <= n ; i++)
+            {
+                Console.Write("              ");
+                for (int j = 0 ; j <= i-2; j++)
+                {
+                    Console.Write(' ');
+                }
+                for (int k = 2 * n - i; k >= i+2; k--)
+                {
+                    Console.Write('*');
+                }
+
+                Console.WriteLine(" ");
+
+            }
+            #endregion
+            Console.Read();
+
         }
     }
 }
